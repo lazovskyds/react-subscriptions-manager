@@ -1,6 +1,6 @@
 # Subscriptions manager
 
-![](https://image.prntscr.com/image/6JZ7IpJ6RLuyqM3hFt9Lnw.png)
+![](https://raw.githubusercontent.com/lazovskyds/react-subscriptions-manager/master/preview.png)
 
 **This is a pet project of mine where I developed a no-state-manager subscriptions manager. In this project, data is stored at the top level and passed down to the child components.**
 
