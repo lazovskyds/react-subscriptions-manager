@@ -2,12 +2,13 @@
 
 ![](https://raw.githubusercontent.com/lazovskyds/react-subscriptions-manager/master/preview.png)
 
-**This is a pet project of mine where I developed a no-state-manager subscriptions manager. In this project, data is stored at the top level and passed down to the child components.**
+**This is my old the first pet project - subscriptions manager. SPA for accounting of subscriptions.**
 
 ## Stack
 
 * JavaScript (ES6+)
 * ReactJS
+* MobX
 * Create-react-app
 * CSS-in-JS (styled components)
 ## Functional

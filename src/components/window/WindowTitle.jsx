@@ -2,8 +2,8 @@ import React from 'react';
 import { device } from '../../responsive';
 import styled from 'styled-components';
 
-const StyledHead1 = styled.h1`
-    font-size: 42px;
+const StyledWindowTitle = styled.h1`
+    font-size: 36px;
     font-weight: 700;
     color: #fff;
     text-transform: uppercase;
@@ -12,9 +12,9 @@ const StyledHead1 = styled.h1`
 
     @media ${device.notPC} {
         display: none;
-    }
+   }
 `;
 
-export default function Head1(props) {
-    return <StyledHead1 {...props} />
+export default function WindowTitle({ children }) {
+    return <StyledWindowTitle>{children}</StyledWindowTitle>
 }

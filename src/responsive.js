@@ -1,4 +1,4 @@
-const size = {
+export const size = {
     notPC: '1099px',
     PC: '1100px'
 };
